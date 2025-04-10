@@ -15,7 +15,7 @@ Welcome to the **ultimate** deep-learning-powered stock market crystal ball (wel
   - Picks **winning** stocks.
   - Avoids **risky** ones.
   - Allocates funds like a pro (maximize gains, minimize sleepless nights).
-- **(Extra Credit) Deploy Like a Tech Titan**:
+- **For further development**:
   - Turns models into API services.
   - Builds a sleek web-based SaaS for stock market insights.
   - Automates everything with fancy AI workflows.

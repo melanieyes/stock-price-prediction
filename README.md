@@ -47,9 +47,9 @@ Welcome to the **ultimate** deep-learning-powered stock market crystal ball (wel
 │   ├── vietnam/
 │
 ├── notebooks/
-│   ├── stock_price_prediction.ipynb
-│   ├── trading_signal_identification.ipynb
-│   ├── portfolio_optimization.ipynb
+│   ├──nasdaq_ipynb
+│   ├── hose.ipynb
+│  
 │
 ├── src/
 │   ├── models/
